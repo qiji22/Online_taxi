@@ -1,0 +1,11 @@
+
+„
+java:S1104	"bMake verificationCodePrefix a static final constant or non-public and provide accessors if needed.(¹¸ºÛþÿÿÿÿ8Èñ‡µ³1
+y
+java:S1104"WMake tokenPrefix a static final constant or non-public and provide accessors if needed.(ûøÑ•þÿÿÿÿ8Èñ‡µ³1
+^
+java:S1444	"<Make this "public static verificationCodePrefix" field final(¹¸ºÛþÿÿÿÿ8Õñ‡µ³1
+S
+java:S1444"1Make this "public static tokenPrefix" field final(ûøÑ•þÿÿÿÿ8Õñ‡µ³1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(à©éßùÿÿÿÿ8öñ‡µ³1

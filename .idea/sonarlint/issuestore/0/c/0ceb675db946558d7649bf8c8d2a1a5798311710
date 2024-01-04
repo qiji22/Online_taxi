@@ -1,0 +1,12 @@
+
+{
+java:S22294"^"insertDicDistrict's" @Transactional requirement is incompatible with the one for this method.(×”Õ‚8±™”åª1
+€
+java:S2229>"^"insertDicDistrict's" @Transactional requirement is incompatible with the one for this method.(ÎÉ²Æúÿÿÿÿ8±™”åª1
+{
+java:S2229L"^"insertDicDistrict's" @Transactional requirement is incompatible with the one for this method.(ºÁé8±™”åª1
+{
+java:S2229U"^"insertDicDistrict's" @Transactional requirement is incompatible with the one for this method.(ªàÏÁ8±™”åª1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(•×¸øÿÿÿÿ8²™”åª1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ê‰ùÿşÿÿÿÿ8³™”åª1

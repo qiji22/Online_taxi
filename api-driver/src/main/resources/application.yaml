@@ -1,0 +1,19 @@
+server:
+  port: 8088
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 10.66.22.14:8848
+    sentinel:
+      transport:
+        dashboard: localhost:8080
+        port: 8719
+
+  application:
+    name: api-driver
+
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    database: 0

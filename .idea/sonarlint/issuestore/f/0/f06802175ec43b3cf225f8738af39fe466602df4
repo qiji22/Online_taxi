@@ -1,0 +1,57 @@
+
+v
+java:S1104"[Make DRIVER_CAR_BIND a static final constant or non-public and provide accessors if needed.(ş‚— ùÿÿÿÿ
+x
+java:S1104"]Make DRIVER_CAR_UNBIND a static final constant or non-public and provide accessors if needed.(Ö§àûùÿÿÿÿ
+t
+java:S1104"^Make DRIVER_STATE_VALID a static final constant or non-public and provide accessors if needed.(”àÜÛ
+u
+java:S1104"`Make DRIVER_STATE_INVALID a static final constant or non-public and provide accessors if needed.(»±¢x
+o
+java:S1104"YMake DRIVER_EXISTS a static final constant or non-public and provide accessors if needed.(ŸùÙ
+x
+java:S1104 "]Make DRIVER_NOT_EXISTS a static final constant or non-public and provide accessors if needed.(Äµ­Óùÿÿÿÿ
+~
+java:S1104%"cMake DRIVER_WORK_STATUS_STOP a static final constant or non-public and provide accessors if needed.(Ëà³™şÿÿÿÿ
+
+java:S1104*"dMake DRIVER_WORK_STATUS_START a static final constant or non-public and provide accessors if needed.(Õé·‡øÿÿÿÿ
+
+java:S1104/"fMake DRIVER_WORK_STATUS_SUSPEND a static final constant or non-public and provide accessors if needed.(¥¡ƒÿÿÿÿÿ
+P
+java:S1444"5Make this "public static DRIVER_CAR_BIND" field final(ş‚— ùÿÿÿÿ
+R
+java:S1444"7Make this "public static DRIVER_CAR_UNBIND" field final(Ö§àûùÿÿÿÿ
+N
+java:S1444"8Make this "public static DRIVER_STATE_VALID" field final(”àÜÛ
+O
+java:S1444":Make this "public static DRIVER_STATE_INVALID" field final(»±¢x
+I
+java:S1444"3Make this "public static DRIVER_EXISTS" field final(ŸùÙ
+R
+java:S1444 "7Make this "public static DRIVER_NOT_EXISTS" field final(Äµ­Óùÿÿÿÿ
+X
+java:S1444%"=Make this "public static DRIVER_WORK_STATUS_STOP" field final(Ëà³™şÿÿÿÿ
+Y
+java:S1444*">Make this "public static DRIVER_WORK_STATUS_START" field final(Õé·‡øÿÿÿÿ
+[
+java:S1444/"@Make this "public static DRIVER_WORK_STATUS_SUSPEND" field final(¥¡ƒÿÿÿÿÿ
+u
+java:S3008"ZRename this field "DRIVER_CAR_BIND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‚— ùÿÿÿÿ
+w
+java:S3008"\Rename this field "DRIVER_CAR_UNBIND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö§àûùÿÿÿÿ
+s
+java:S3008"]Rename this field "DRIVER_STATE_VALID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”àÜÛ
+t
+java:S3008"_Rename this field "DRIVER_STATE_INVALID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»±¢x
+n
+java:S3008"XRename this field "DRIVER_EXISTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸùÙ
+w
+java:S3008 "\Rename this field "DRIVER_NOT_EXISTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äµ­Óùÿÿÿÿ
+}
+java:S3008%"bRename this field "DRIVER_WORK_STATUS_STOP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëà³™şÿÿÿÿ
+~
+java:S3008*"cRename this field "DRIVER_WORK_STATUS_START" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õé·‡øÿÿÿÿ
+€
+java:S3008/"eRename this field "DRIVER_WORK_STATUS_SUSPEND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¡ƒÿÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¤éæ¹ıÿÿÿÿ

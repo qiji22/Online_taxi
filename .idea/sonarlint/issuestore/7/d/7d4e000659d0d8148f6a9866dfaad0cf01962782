@@ -1,0 +1,14 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÔŒ[8¿²›”±1
+`
+java:S1155K">Use isEmpty() to check whether the collection is empty or not.(º‡âËøÿÿÿÿ8é×Í½²1
+\
+java:S1128":Remove this unused import 'cn.hutool.core.util.ArrayUtil'.(‡ÙÛÎùÿÿÿÿ8ÓÉß½²1
+]
+java:S1128";Remove this unused import 'com.lwx.internalcommon.dto.Car'.(±Ô£ìúÿÿÿÿ8›’Ô½²1
+i
+java:S1128"GRemove this unused import 'com.lwx.serviceDriverUser.mapper.CarMapper'.(õº·Ðøÿÿÿÿ8›’Ô½²1
+g
+java:S1128"JRemove this unused import 'com.lwx.serviceDriverUser.service.ICarService'.(¬¿úº8›’Ô½²1
+r
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àýÿÿÿÿ8œ’Ô½²1

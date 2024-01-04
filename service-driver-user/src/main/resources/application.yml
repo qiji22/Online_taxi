@@ -1,0 +1,16 @@
+server:
+  port: 8086
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 10.66.22.14:8848
+  application:
+    name: service-driver-user
+
+  #数据库连接信息
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/service-driver-user?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: root
