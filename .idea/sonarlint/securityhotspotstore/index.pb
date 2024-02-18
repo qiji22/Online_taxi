@@ -49,8 +49,6 @@ Iapi-passnger/src/main/java/com/lwx/apipassenger/service/TokenService.java,1\2\
 Ninternal-common/src/main/java/com/lwx/internalcommon/util/BigDecimalUtils.java,f\e\fea53fc8bc0d15685c34ac1ddd39b06f1162052e
 Å
 Qapi-passnger/src/main/java/com/lwx/apipassenger/service/ForecastPriceService.java,2\f\2fe39112b9a2052d6b2779e5e3b314192fba6f73
-Ç
-Rservice-price/src/main/java/com/lwx/serviceprice/service/ForecastPriceService.java,4\9\4912cc49c79874be9e44eb3815436280bb7d7de6
 y
 Iinternal-common/src/main/java/com/lwx/internalcommon/dto/DicDistrict.java,4\7\47d4dd5ff9ba8a809fee1b8108e7460e3a03da0a
 w
@@ -605,8 +603,6 @@ Q.idea/sonarlint/securityhotspotstore/9/5/9566433cb27272aa9bf5c219e34b9a3b417d56
 Q.idea/sonarlint/securityhotspotstore/b/5/b519ce474b80b5ced455be54023568b8536a69dc,2\4\24b86d51dd4e8955d88c152efc6626a6b8f5b92c
 Å
 Q.idea/sonarlint/securityhotspotstore/b/2/b2cd7685f9f24279be7b6ac72dac243d4cccb919,f\c\fcd11c6239ea284be1212f56e268bad187eb36f5
-É
-Sinternal-common/src/main/java/com/lwx/internalcommon/constant/CommonStatusEnum.java,8\d\8d54989c25d0c7d63925cc33913cad5f28393349
 Ç
 Rapi-passnger/src/main/java/com/lwx/apipassenger/interceptor/InterceptorConfig.java,2\2\22b89972dd29dab36b03744efb36f6941c3d7da2
 
@@ -813,8 +809,6 @@ G
 internal-common/pom.xml,b\8\b861d8221d47c3f1177f78fb644bae9f89b1d172
 û
 nservice-verificationcode/src/main/java/com/lwx/serviceverificationcode/ServiceVerificationcodeApplication.java,8\b\8ba0f05dabffa9ae54fbd246767ceb9c2d353a08
-}
-Mservice-price/src/main/java/com/lwx/serviceprice/ServicePriceApplication.java,8\d\8d39d995ac894b36f017bb6b0283ed20de83053c
 N
 service-passenger-user/pom.xml,5\4\544e55283098575dfd07639754d617bac95e3120
 <
@@ -839,3 +833,11 @@ Sservice-order/src/main/java/com/lwx/serviceorder/service/impl/OrderServiceImpl.
 Qinternal-common/src/main/java/com/lwx/internalcommon/constant/OrderConstants.java,b\0\b020c3b0782b183382299e7897f9531829f94ff4
 Å
 Qapi-passnger/src/main/java/com/lwx/apipassenger/service/IServiceOrderService.java,b\2\b2fefd3ce1f36105035d59029edc4975a0deb053
+â
+Yapi-passnger/src/main/java/com/lwx/apipassenger/service/impl/ServiceOrderServiceImpl.java,d\a\da0491c7fe6bc38e274c9834646a4ad69e8a6fce
+
+Oapi-passnger/src/main/java/com/lwx/apipassenger/controller/OrderController.java,6\f\6ffe959617f61ee2a9bca7d91ff562157ad4ec7f
+~
+Napi-passnger/src/main/java/com/lwx/apipassenger/remote/ServiceOrderClient.java,5\2\5217c30562012d1831e0097f5236855ff8f9ca41
+à
+Xservice-price/src/main/java/com/lwx/serviceprice/controller/ForecastPriceController.java,b\9\b91a50f8dcbd29ba23320d90d5b6d1a910620eea

@@ -4,6 +4,10 @@
 <mapper namespace="com.lwx.serviceprice.mapper.PriceRuleMapper">
     <select id="findList" resultType="com.lwx.internalcommon.dto.PriceRule">
         select * from price_rule t
-        order by t.id desc
+        <where>
+            <if test="p.cityCode != null and p.cityCode != '' ">
+                t.city_code = #{p.cityCode}
+            </if>
+        </where>
     </select>
 </mapper>

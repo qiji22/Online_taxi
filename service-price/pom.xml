@@ -64,6 +64,16 @@
             <artifactId>pagehelper</artifactId>
             <version>5.0.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>mybatis-plus-extension</artifactId>
+            <version>3.5.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.jsqlparser</groupId>
+            <artifactId>jsqlparser</artifactId>
+            <version>4.2</version> <!-- 或者是其他与MyBatis-Plus兼容的更高版本 -->
+        </dependency>
 
     </dependencies>
     <properties>

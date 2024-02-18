@@ -36,7 +36,7 @@ public class PriceRuleServiceImpl extends ServiceImpl<PriceRuleMapper, PriceRule
         Integer curPage = MapUtils.getInteger(params, "page");
         Integer limit = MapUtils.getInteger(params, "limit");
         Page<PriceRule> page = new Page<>(curPage == null ? 0 : curPage, limit == null ? -1 : limit);
-        PageHelper.startPage(curPage, limit);
+//        PageHelper.startPage(curPage, limit);
         List<PriceRule> list = baseMapper.findList(page, params);
         //返回分页对象
         return new PageInfo<PriceRule>(list);
